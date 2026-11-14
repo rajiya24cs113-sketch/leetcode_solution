@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajiya24cs113-sketch/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rajiya24cs113-sketch/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2574-left-and-right-sum-differences](https://github.com/rajiya24cs113-sketch/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
 ## Math
@@ -32,4 +33,16 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/rajiya24cs113-sketch/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
+## Hash Table
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajiya24cs113-sketch/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajiya24cs113-sketch/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajiya24cs113-sketch/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
