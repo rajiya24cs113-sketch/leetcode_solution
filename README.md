@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rajiya24cs113-sketch/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2574-left-and-right-sum-differences](https://github.com/rajiya24cs113-sketch/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
 | ------- |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajiya24cs113-sketch/leetcode_solution/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/rajiya24cs113-sketch/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
